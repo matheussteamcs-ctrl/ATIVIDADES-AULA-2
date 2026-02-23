@@ -7,7 +7,7 @@ public class Exercicio2 {
         turma.lerNotas();
         turma.somar();
         turma.media();
-        turma.mostrarMedia();7,7
+        turma.mostrarMedia();
     }
 }
 
